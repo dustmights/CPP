@@ -1,7 +1,8 @@
 #include <iostream>
 #include <string>
 #include "debugutils.h"
-
+// oooo! a small doc change to main!
+// whatever shall we do?!
 using namespace std;
 
 bool validHangmanCharacter(char letter)
